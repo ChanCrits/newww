@@ -1,0 +1,13 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "First Commit"
+
+git remote add origin https://github.com/ChanCrits/imageview.git
+
+git push -u origin master
+
+
